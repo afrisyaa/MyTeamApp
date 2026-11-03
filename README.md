@@ -4,12 +4,10 @@ An iOS app built with SwiftUI by our team during **STDCx**. It introduces the te
 
 ## Team
 
-| Member | GitHub |
-| --- | --- |
-| Farisya | [@afrisyaa](https://github.com/afrisyaa) |
-| Shahid | [@shahidsaharudin](https://github.com/shahidsaharudin) |
-| Irfan | |
-| Ariena | |
+- Farisya
+- Shahid
+- Irfan
+- Ariena
 
 ## Features
 
