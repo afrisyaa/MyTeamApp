@@ -4,10 +4,7 @@ An iOS app built with SwiftUI by our team during **STDCx**. It introduces the te
 
 ## Team
 
-- Farisya
-- Shahid
-- Irfan
-- Ariena
+Built as a group project with Shahid, Irfan and Ariena during the STDCx workshop.
 
 ## Features
 
