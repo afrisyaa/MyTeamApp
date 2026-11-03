@@ -10,7 +10,6 @@ Built as a group project with Shahid, Irfan and Ariena during the STDCx workshop
 
 - **Home**: welcome page and features page, with swipeable pages on a gradient background
 - **Team**: an "About My Team" page with a profile for each member (photo, bio and details)
-- **Team info**: an overview of the team
 - A tab bar for moving between pages
 
 ## Requirements
